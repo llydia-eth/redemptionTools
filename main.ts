@@ -1,4 +1,7 @@
-import { InfinityMintGem, InfinityMintGemParameters } from "@app/interfaces";
+import {
+	InfinityMintGem,
+	InfinityMintGemParameters,
+} from "infinitymint/app/interfaces";
 
 const gem: InfinityMintGem = {
 	name: "ERC721 Redemption Tools",
